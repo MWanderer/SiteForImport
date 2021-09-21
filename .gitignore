@@ -5,9 +5,9 @@ tmp/
 
 # Будут игнорироваться все файлы и каталоги с расширением .old .backup
 
-*.html_old
+*.*_old
 
-*.backup
+*.*_backup
 
 *.DS_Store
 
